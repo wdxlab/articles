@@ -1,0 +1,16 @@
+.logo {
+    background: url("../images/logo.svg") no-repeat;
+    background-size: cover;
+    width: 75px;
+    height: 65px;
+}
+
+.big {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url("../images/big.svg") no-repeat;
+    background-size: cover;
+    width: 100vh;
+    height: 100%;
+}
