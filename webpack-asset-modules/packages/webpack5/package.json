@@ -19,6 +19,6 @@
     "svgo": "^1.3.2",
     "svgo-loader": "^2.2.1",
     "webpack": "5.0.0-beta.13",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   }
 }
